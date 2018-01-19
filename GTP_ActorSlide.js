@@ -12,7 +12,7 @@ Imported.GTP_ActorSlide.version = 1.0;
 
 /*:
 * @plugindesc Change the actors' movement to the start position at the beginning of a battle.
-* @author Gamefall Team || Luca
+* @author Gamefall Team || Luca Mastroianni || Nebula Games
 * @help The plugin's parameter customize the movement to the start position of the battler in the Battle.
 * The Default Value for all the parameters is 0.
 * @param Actor Slide X
