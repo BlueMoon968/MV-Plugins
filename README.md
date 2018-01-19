@@ -34,3 +34,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+#### THANK YOU FOR YOUR SUPPORT!
+
+<p align="center">
+  <a href="https://www.paypal.me/GamefallTeamPlugins/1usd" target= "_blank">
+  <img src="https://github.com/BlueMoon968/BlueMoon968.github.io/blob/master/Donate.png?raw=true">
+  </a>
+</p>
