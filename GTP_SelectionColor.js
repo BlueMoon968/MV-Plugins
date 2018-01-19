@@ -7,12 +7,12 @@
  */
 
 var Imported = Imported || {};
-Imported.SelectionColor = true;
-Imported.SelectionColor.version = 1.1;
+Imported.GTP_SelectionColor = true;
+Imported.GTP_SelectionColor.version = 1.1;
 
 /*:
 * @plugindesc Change the color of the current selection.
-* @author Gamefall || Luca
+* @author Gamefall Team || Luca Mastroianni || Nebula Games
 * @help Insert in img/system the image of the background, paying attention
 * to the file name.
 *
