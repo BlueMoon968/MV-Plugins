@@ -12,7 +12,7 @@ Imported.GTP_SmallMenu.version = 1.0;
 
 /*:
 * @plugindesc Plugin that creates a menu like the one shown in the "Witch's house" game
-* @author Gamefall || Luca
+* @author Gamefall Team || Luca Mastroianni || Nebula Games
 * @help No plugin command.
 * --CHANGELOG--
 * Version 1.0 : Plugin released!
