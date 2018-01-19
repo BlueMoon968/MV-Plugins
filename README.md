@@ -1,13 +1,13 @@
 # MV-Plugins
 This is a repository containing some free plugins made for RPG Maker MV.
 
-# PLUGIN LIST
-• WOLF RPG MENU -- **Version 1.3**
-• ACTOR SLIDE -- **Version 1.0**
-• UNDERTALE SAVE MENU -- **Version 1.1**
-• SMALL MENU (THE WITCH'S HOUSE STYLE) -- **Version 1.0**
-• REAL TIME SYSTEM -- **Version 1.0**
-• NO HIDING BATTLE BACKGROUND -- **Version 1.0**
+## PLUGIN LIST
+* WOLF RPG MENU -- **Version 1.3**
+* ACTOR SLIDE -- **Version 1.0**
+* UNDERTALE SAVE MENU -- **Version 1.1**
+* SMALL MENU (THE WITCH'S HOUSE STYLE) -- **Version 1.0**
+* REAL TIME SYSTEM -- **Version 1.0**
+* NO HIDING BATTLE BACKGROUND -- **Version 1.0**
 
 
 
