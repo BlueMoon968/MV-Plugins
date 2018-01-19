@@ -12,7 +12,7 @@ Imported.GTP_NoHideBH.version = 1.0;
 
 /*:
 * @plugindesc The actor status window stay visible during Show Text command in battles.
-* @author Gamefall Team || Luca
+* @author Gamefall Team || Luca Mastroianni || Nebula Games
 * @help As the plugin description explain, this simple plugin allow
 * the status window to stay visible during the show text command in battles.
 * The effect are NOT visible in TEST battle.
