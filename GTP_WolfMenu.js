@@ -28,7 +28,7 @@ SceneManager.checkYanflyCore = function(version) {
 /*:
 * @plugindesc this plugin creates a menu scene similar to the one of Wolf Rpg Editor.
 * IMPORTANT: Trigger PAGEUP or PAGEDOWN to switch between the actors' window status in the menu.
-* @author Gamefall || Luca
+* @author Gamefall Team || Luca Mastroainni || Nebula Games
 * @help All the details about the costumization are included in the plugin parameters itself.
 * More features could be planned in next updates. To change the gauge colors, you should change
 * the values of YEP_CoreEngine's parameters about HP, MP and TP (for exp gauge) bar color.
