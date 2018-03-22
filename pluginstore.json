@@ -13,7 +13,7 @@
         {
             "name": "GTP: Gamefall Team Plugins - Alternative Menu Scene: Wolf Rpg Editor",
             "version": "1.3.0",
-            "requeriment": ["Yanfly Engine Core"],
+            "requirement": ["Yanfly Engine Core"],
             "incompatible": [],
             "description": [
                 "Wolf Rpg System is a demo that contains two plugins: AltMenu-WolfRpg and AltEquip-WolfRpg that change the default menu, item, save and",
