@@ -26,6 +26,21 @@
                     "filename": "GTP_WolfMenu.js"
                 }
             ]
+        },
+        {
+            "name": "GTP: Gamefall Team Plugins - Console Debugger",
+            "version": "1.0.0",
+            "requirement": [],
+            "incompatible": [],
+            "description": [
+                "This is a plugin useful for developers. It extends the default console class, adding useful methods for debugging."
+            ],
+            "js": [
+                {
+                    "url": "https://raw.githubusercontent.com/BlueMoon968/MV-Plugins/master/GTP_Debugger.js",
+                    "filename": "GTP_Debugger.js"
+                }
+            ]
         }
     ]
 }
