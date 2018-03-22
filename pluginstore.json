@@ -1,0 +1,30 @@
+{
+    "general": {
+        "author": "Gamefall Team",
+        "picture": "https://i.imgur.com/wXJ4417.png",
+        "background": "",
+        "description": [
+            "Plugins made by Gamefall Team in which you can download or check out updates on this Store."
+        ]
+    },
+
+    "plugin": [
+
+        {
+            "name": "GTP: Gamefall Team Plugins - Alternative Menu Scene: Wolf Rpg Editor",
+            "version": "1.3.0",
+            "requeriment": ["Yanfly Engine Core"],
+            "incompatible": [],
+            "description": [
+                "Wolf Rpg System is a demo that contains two plugins: AltMenu-WolfRpg and AltEquip-WolfRpg that change the default menu, item, save and",
+                "equip scenes like the ones of Wolf Rpg Editor. All the details are in the archive readme and plugins' descriptions."
+            ],
+            "js": [
+                {
+                    "url": "https://github.com/BlueMoon968/MV-Plugins/raw/master/GTP_WolfMenu.js",
+                    "filename": "GTP_WolfMenu.js"
+                }
+            ]
+        }
+    ]
+}
