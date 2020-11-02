@@ -11,7 +11,7 @@ Imported.GTP_UnderSave = true;
 Imported.GTP_UnderSave.version = 2.0;
 
 /*:
-* @plugindesc V 2.0 The save scene is changed like the one of Undertale
+* @plugindesc V 2.1 The save scene is changed like the one of Undertale
 * @author Gamefall Team || Luca Mastroianni
 * @help Insert in img/system the image of the background, paying attention
 * to the file name.
@@ -32,6 +32,7 @@ Imported.GTP_UnderSave.version = 2.0;
 * Version 1.1: Rewrite portion of code.
 * --------------------------------------------------
 * Version 2.0: Complete code rewriting;
+* Version 2.1: Removed Timeout;
 *
 *
 * @param No location
@@ -147,9 +148,7 @@ Gamefall.UnderSave = Gamefall.UnderSave || {};
                     if(Input.isTriggered('ok') || Input.isTriggered('cancel') || TouchInput.isTriggered() || TouchInput.isCancelled()) {
                         SoundManager.playOk()
                         this.close()
-                        setTimeout(function() {
-                            this.parent.removeChild(this)
-                        }.bind(this), 300)
+                        this.parent.removeChild(this)
                         self._underSave = false;
                         Input.clear()
                     }
@@ -166,9 +165,7 @@ Gamefall.UnderSave = Gamefall.UnderSave || {};
                         SoundManager.playCancel()
                         this.close()
                         self._underSave = false;
-                        setTimeout(function() {
-                            this.parent.removeChild(this)
-                        }.bind(this), 300)  
+                        this.parent.removeChild(this)
                         this.removeChild(this.curs)
                         return Input.clear()
                     }
@@ -186,9 +183,7 @@ Gamefall.UnderSave = Gamefall.UnderSave || {};
                         SoundManager.playBuzzer()
                         this.close()
                         self._underSave = false;
-                        setTimeout(function() {
-                            this.parent.removeChild(this)
-                        }.bind(this), 300)
+                        this.parent.removeChild(this)
                     }
                     this.removeChild(this.curs)
                     return Input.clear()
@@ -196,9 +191,7 @@ Gamefall.UnderSave = Gamefall.UnderSave || {};
                 if(Input.isTriggered('cancel') || TouchInput.isCancelled()) {
                     SoundManager.playCancel()
                     this.close()
-                    setTimeout(function() {
-                        this.parent.removeChild(this)
-                    }.bind(this), 300)
+                    this.parent.removeChild(this)
                     self._underSave = false;
                     this.removeChild(this.curs)
                     return Input.clear()
